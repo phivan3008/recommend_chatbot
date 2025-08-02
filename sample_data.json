@@ -1,0 +1,498 @@
+[
+  {
+    "ten_phim": "The Shawshank Redemption (1994)",
+    "the_loai": "Chính kịch, Tội phạm",
+    "tom_tat": "Câu chuyện về Andy Dufresne, một nhân viên ngân hàng bị kết án oan và hành trình tìm lại tự do, hy vọng và tình bạn trong nhà tù Shawshank."
+  },
+  {
+    "ten_phim": "The Godfather (1972)",
+    "the_loai": "Tội phạm, Chính kịch",
+    "tom_tat": "Tập trung vào gia đình mafia Corleone và quá trình chuyển giao quyền lực từ người cha Vito sang con trai út Michael, người ban đầu không muốn dính líu đến thế giới ngầm."
+  },
+  {
+    "ten_phim": "The Dark Knight (2008)",
+    "the_loai": "Hành động, Tội phạm, Giật gân",
+    "tom_tat": "Batman đối mặt với kẻ thù lớn nhất của mình, Joker, một tên tội phạm tâm thần gieo rắc hỗn loạn và thách thức giới hạn đạo đức của Người Dơi."
+  },
+  {
+    "ten_phim": "Pulp Fiction (1994)",
+    "the_loai": "Tội phạm, Chính kịch",
+    "tom_tat": "Những câu chuyện đan xen của các nhân vật trong thế giới ngầm ở Los Angeles, bao gồm hai sát thủ, vợ của một ông trùm và một võ sĩ quyền Anh."
+  },
+  {
+    "ten_phim": "Forrest Gump (1994)",
+    "the_loai": "Chính kịch, Lãng mạn",
+    "tom_tat": "Cuộc đời phi thường của Forrest Gump, một người đàn ông có IQ thấp nhưng trái tim nhân hậu, vô tình trở thành nhân chứng và người tham gia vào các sự kiện lịch sử quan trọng của Mỹ."
+  },
+  {
+    "ten_phim": "Inception (2010)",
+    "the_loai": "Hành động, Khoa học viễn tưởng, Giật gân",
+    "tom_tat": "Một nhóm chuyên gia xâm nhập vào giấc mơ của người khác để đánh cắp thông tin, nay nhận nhiệm vụ thực hiện điều ngược lại: cấy một ý tưởng vào tiềm thức."
+  },
+  {
+    "ten_phim": "The Matrix (1999)",
+    "the_loai": "Hành động, Khoa học viễn tưởng",
+    "tom_tat": "Một hacker tên Neo phát hiện ra rằng thế giới anh đang sống thực chất là một chương trình giả lập, và anh được chọn để giải phóng nhân loại."
+  },
+  {
+    "ten_phim": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+    "the_loai": "Phiêu lưu, Giả tưởng, Hành động",
+    "tom_tat": "Chàng hobbit Frodo Baggins bắt đầu hành trình nguy hiểm đến núi Doom để phá hủy chiếc Nhẫn Chúa, một vũ khí quyền năng có thể hủy diệt thế giới."
+  },
+  {
+    "ten_phim": "Parasite (2019)",
+    "the_loai": "Hài kịch đen, Giật gân, Chính kịch",
+    "tom_tat": "Một gia đình nghèo tìm cách xâm nhập vào cuộc sống của một gia đình giàu có bằng những mánh khóe, dẫn đến những hậu quả bi thảm và không thể lường trước."
+  },
+  {
+    "ten_phim": "Spirited Away (2001)",
+    "the_loai": "Hoạt hình, Giả tưởng, Phiêu lưu",
+    "tom_tat": "Cô bé Chihiro đi lạc vào thế giới của các vị thần và linh hồn. Để cứu cha mẹ và trở về, cô phải làm việc tại một nhà tắm công cộng do phù thủy Yubaba điều hành."
+  },
+  {
+    "ten_phim": "Titanic (1997)",
+    "the_loai": "Lãng mạn, Chính kịch",
+    "tom_tat": "Mối tình ngang trái giữa tiểu thư Rose và chàng họa sĩ nghèo Jack trên chuyến tàu định mệnh Titanic, kết thúc bằng một trong những thảm họa hàng hải lớn nhất lịch sử."
+  },
+  {
+    "ten_phim": "Avatar (2009)",
+    "the_loai": "Khoa học viễn tưởng, Hành động, Phiêu lưu",
+    "tom_tat": "Một cựu lính thủy đánh bộ bị liệt được cử đến hành tinh Pandora trong một cơ thể nhân tạo (avatar) và phải lựa chọn giữa mệnh lệnh và việc bảo vệ thế giới mà anh cảm thấy thuộc về."
+  },
+  {
+    "ten_phim": "Gladiator (2000)",
+    "the_loai": "Hành động, Phiêu lưu, Chính kịch",
+    "tom_tat": "Một vị tướng La Mã bị phản bội và gia đình bị sát hại, anh trở thành một đấu sĩ giác đấu để tìm cách trả thù kẻ đã hủy hoại cuộc đời mình."
+  },
+  {
+    "ten_phim": "The Silence of the Lambs (1991)",
+    "the_loai": "Tội phạm, Giật gân, Kinh dị",
+    "tom_tat": "Nữ thực tập sinh FBI Clarice Starling phải tìm kiếm sự giúp đỡ từ tên bác sĩ ăn thịt người Hannibal Lecter để bắt một kẻ giết người hàng loạt khác."
+  },
+  {
+    "ten_phim": "Schindler's List (1993)",
+    "the_loai": "Lịch sử, Chính kịch, Tiểu sử",
+    "tom_tat": "Câu chuyện có thật về Oskar Schindler, một doanh nhân người Đức đã cứu sống hơn một nghìn người Do Thái khỏi nạn diệt chủng Holocaust bằng cách thuê họ làm việc trong nhà máy của mình."
+  },
+  {
+    "ten_phim": "Fight Club (1999)",
+    "the_loai": "Chính kịch",
+    "tom_tat": "Một nhân viên văn phòng mất ngủ tìm cách thoát khỏi cuộc sống nhàm chán bằng cách thành lập một câu lạc bộ chiến đấu bí mật với một người bán xà phòng lôi cuốn."
+  },
+  {
+    "ten_phim": "Interstellar (2014)",
+    "the_loai": "Khoa học viễn tưởng, Phiêu lưu, Chính kịch",
+    "tom_tat": "Trong một tương lai khi Trái Đất đang chết dần, một nhóm các nhà du hành vũ trụ bắt đầu hành trình xuyên qua một lỗ sâu để tìm kiếm một hành tinh mới cho nhân loại."
+  },
+  {
+    "ten_phim": "Goodfellas (1990)",
+    "the_loai": "Tội phạm, Chính kịch, Tiểu sử",
+    "tom_tat": "Kể về cuộc đời của Henry Hill và những người bạn của anh ta trong thế giới mafia từ những năm 1950 đến 1980, từ đỉnh cao danh vọng đến sự sụp đổ."
+  },
+  {
+    "ten_phim": "The Green Mile (1999)",
+    "the_loai": "Chính kịch, Giả tưởng, Tội phạm",
+    "tom_tat": "Một quản giáo tại khu tử tù phát hiện ra một tù nhân da màu có khả năng chữa bệnh siêu nhiên, làm thay đổi cuộc sống của tất cả mọi người tại đây."
+  },
+  {
+    "ten_phim": "Life Is Beautiful (1997)",
+    "the_loai": "Hài kịch, Chính kịch, Lãng mạn",
+    "tom_tat": "Một người cha Do Thái lạc quan sử dụng trí tưởng tượng của mình để bảo vệ con trai khỏi những sự thật kinh hoàng trong một trại tập trung của Đức Quốc xã."
+  },
+  {
+    "ten_phim": "The Lion King (1994)",
+    "the_loai": "Hoạt hình, Phiêu lưu, Chính kịch",
+    "tom_tat": "Hành trình của chú sư tử con Simba để giành lại ngai vàng từ người chú độc ác Scar, sau cái chết bi thảm của vua cha Mufasa."
+  },
+  {
+    "ten_phim": "Joker (2019)",
+    "the_loai": "Tội phạm, Chính kịch, Giật gân",
+    "tom_tat": "Câu chuyện nguồn gốc của Joker, khám phá cuộc đời của Arthur Fleck, một diễn viên hài thất bại bị xã hội ruồng bỏ, dần dần hóa điên và trở thành biểu tượng của sự hỗn loạn."
+  },
+
+  {
+    "ten_phim": "Back to the Future (1985)",
+    "the_loai": "Phiêu lưu, Hài kịch, Khoa học viễn tưởng",
+    "tom_tat": "Cậu thiếu niên Marty McFly vô tình du hành về quá khứ 30 năm bằng một cỗ máy thời gian và phải tìm cách để cha mẹ mình yêu nhau để đảm bảo sự tồn tại của cậu."
+  },
+  {
+    "ten_phim": "Jurassic Park (1993)",
+    "the_loai": "Phiêu lưu, Khoa học viễn tưởng, Giật gân",
+    "tom_tat": "Một công viên giải trí với những con khủng long được tái sinh từ DNA cổ đại gặp sự cố, khiến các du khách phải đấu tranh để sinh tồn."
+  },
+  {
+    "ten_phim": "The Prestige (2006)",
+    "the_loai": "Chính kịch, Bí ẩn, Giật gân",
+    "tom_tat": "Cuộc đối đầu đầy kịch tính và ám ảnh giữa hai ảo thuật gia tài ba ở London cuối thế kỷ 19, họ sẵn sàng hy sinh mọi thứ để tạo ra màn ảo thuật tối thượng."
+  },
+  {
+    "ten_phim": "Whiplash (2014)",
+    "the_loai": "Chính kịch, Âm nhạc",
+    "tom_tat": "Một tay trống trẻ đầy tham vọng theo học tại một nhạc viện danh tiếng và phải đối mặt với một người thầy hà khắc, người đẩy anh đến giới hạn của tài năng và sự tỉnh táo."
+  },
+  {
+    "ten_phim": "Up (2009)",
+    "the_loai": "Hoạt hình, Phiêu lưu, Hài kịch",
+    "tom_tat": "Ông lão góa vợ Carl Fredricksen thực hiện ước mơ cả đời bằng cách buộc hàng ngàn quả bóng bay vào ngôi nhà của mình để bay đến Nam Mỹ, nhưng vô tình mang theo một cậu bé hướng đạo sinh."
+  },
+  {
+    "ten_phim": "La La Land (2016)",
+    "the_loai": "Nhạc kịch, Lãng mạn, Chính kịch",
+    "tom_tat": "Một nghệ sĩ piano nhạc jazz và một nữ diễn viên đầy tham vọng yêu nhau khi cùng theo đuổi ước mơ của mình ở Los Angeles, nhưng danh vọng và thành công lại thử thách mối quan hệ của họ."
+  },
+  {
+    "ten_phim": "Toy Story (1995)",
+    "the_loai": "Hoạt hình, Phiêu lưu, Hài kịch",
+    "tom_tat": "Chàng cao bồi đồ chơi Woody cảm thấy bị đe dọa khi cậu chủ Andy có một món đồ chơi mới hiện đại hơn, Buzz Lightyear, dẫn đến một cuộc phiêu lưu ngoài ý muốn."
+  },
+  {
+    "ten_phim": "Saving Private Ryan (1998)",
+    "the_loai": "Chiến tranh, Chính kịch",
+    "tom_tat": "Sau cuộc đổ bộ D-Day, một nhóm lính Mỹ được giao nhiệm vụ đặc biệt: tìm và đưa binh nhì Ryan, người có ba anh trai đã hy sinh, trở về nhà an toàn."
+  },
+  {
+    "ten_phim": "Coco (2017)",
+    "the_loai": "Hoạt hình, Giả tưởng, Âm nhạc",
+    "tom_tat": "Cậu bé Miguel, người có đam mê âm nhạc, vô tình lạc vào Vùng đất của người chết và phải tìm kiếm sự chúc phúc của tổ tiên để trở về thế giới người sống."
+  },
+  {
+    "ten_phim": "Mad Max: Fury Road (2015)",
+    "the_loai": "Hành động, Phiêu lưu, Khoa học viễn tưởng",
+    "tom_tat": "Trong một thế giới hậu tận thế sa mạc, Max hợp tác với Furiosa để chạy trốn khỏi tên bạo chúa Immortan Joe và giải cứu những người vợ của hắn."
+  },
+  {
+    "ten_phim": "The Departed (2006)",
+    "the_loai": "Tội phạm, Chính kịch, Giật gân",
+    "tom_tat": "Một cuộc đối đầu cân não giữa một cảnh sát chìm trong hàng ngũ mafia và một tên tội phạm làm nội gián trong lực lượng cảnh sát."
+  },
+  {
+    "ten_phim": "WALL-E (2008)",
+    "the_loai": "Hoạt hình, Phiêu lưu, Khoa học viễn tưởng",
+    "tom_tat": "Trong tương lai, một robot dọn rác cô đơn trên Trái Đất đã bị bỏ hoang phải lòng một robot do thám hiện đại và theo cô vào không gian trong một cuộc phiêu lưu thay đổi vận mệnh nhân loại."
+  },
+  {
+    "ten_phim": "Alien (1979)",
+    "the_loai": "Kinh dị, Khoa học viễn tưởng",
+    "tom_tat": "Phi hành đoàn của một con tàu vũ trụ thương mại nhận được tín hiệu cầu cứu và phải đối mặt với một sinh vật ngoài hành tinh chết chóc săn lùng họ."
+  },
+  {
+    "ten_phim": "Amélie (2001)",
+    "the_loai": "Hài kịch, Lãng mạn",
+    "tom_tat": "Câu chuyện về Amélie, một cô gái phục vụ bàn hay mơ mộng ở Paris, quyết định âm thầm can thiệp vào cuộc sống của những người xung quanh để mang lại niềm vui cho họ."
+  },
+  {
+    "ten_phim": "Eternal Sunshine of the Spotless Mind (2004)",
+    "the_loai": "Chính kịch, Lãng mạn, Khoa học viễn tưởng",
+    "tom_tat": "Sau một cuộc chia tay đau khổ, một cặp đôi quyết định xóa bỏ ký ức về nhau, nhưng rồi nhận ra tình yêu của họ mạnh mẽ hơn những gì họ nghĩ."
+  },
+  {
+    "ten_phim": "The Shining (1980)",
+    "the_loai": "Kinh dị, Chính kịch",
+    "tom_tat": "Một nhà văn cùng gia đình đến trông coi một khách sạn bị cô lập trong mùa đông, nơi những thế lực siêu nhiên tà ác dần đẩy anh ta đến bờ vực điên loạn."
+  },
+  {
+    "ten_phim": "Inglourious Basterds (2009)",
+    "the_loai": "Phiêu lưu, Chính kịch, Chiến tranh",
+    "tom_tat": "Trong Thế chiến II, một nhóm lính Mỹ gốc Do Thái được cử đến Pháp để khủng bố quân Đức Quốc xã, trong khi một chủ rạp chiếu phim lên kế hoạch trả thù riêng."
+  },
+  {
+    "ten_phim": "A Clockwork Orange (1971)",
+    "the_loai": "Tội phạm, Chính kịch, Khoa học viễn tưởng",
+    "tom_tat": "Trong một tương lai loạn lạc, một thủ lĩnh băng đảng bạo lực bị bắt và tham gia một chương trình thử nghiệm của chính phủ nhằm 'chữa trị' hành vi tội phạm của mình."
+  },
+  {
+    "ten_phim": "Blade Runner 2049 (2017)",
+    "the_loai": "Khoa học viễn tưởng, Giật gân, Bí ẩn",
+    "tom_tat": "Một 'Blade Runner' mới phát hiện ra một bí mật bị chôn vùi từ lâu có khả năng đẩy xã hội vào hỗn loạn và bắt đầu hành trình tìm kiếm một Blade Runner đã mất tích 30 năm."
+  },
+  {
+    "ten_phim": "Mắt Biếc (2019)",
+    "the_loai": "Lãng mạn, Chính kịch",
+    "tom_tat": "Câu chuyện tình yêu đơn phương của Ngạn dành cho Hà Lan, cô bạn có đôi mắt biếc, trải dài qua nhiều năm tháng với những biến cố của cuộc đời."
+  },
+  {
+    "ten_phim": "Bố Già (2021)",
+    "the_loai": "Gia đình, Hài kịch, Chính kịch",
+    "tom_tat": "Phim xoay quanh cuộc sống của một gia đình trong hẻm nhỏ ở Sài Gòn, tập trung vào mâu thuẫn thế hệ giữa người cha bảo thủ Ba Sang và cậu con trai hiện đại Quắn."
+  },
+  {
+    "ten_phim": "Hai Phượng (2019)",
+    "the_loai": "Hành động, Giật gân",
+    "tom_tat": "Một người mẹ và là cựu giang hồ phải dấn thân vào hành trình nghẹt thở để truy đuổi và giải cứu con gái bị một đường dây bắt cóc trẻ em xuyên quốc gia bắt đi."
+  },
+  {
+    "ten_phim": "Finding Nemo (2003)",
+    "the_loai": "Hoạt hình, Phiêu lưu, Hài kịch",
+    "tom_tat": "Sau khi con trai Nemo bị một thợ lặn bắt đi, chú cá hề nhút nhát Marlin đã vượt qua đại dương bao la để tìm con, với sự giúp đỡ của cô cá đãng trí Dory."
+  },
+  {
+    "ten_phim": "Get Out (2017)",
+    "the_loai": "Kinh dị, Bí ẩn, Giật gân",
+    "tom_tat": "Một chàng trai da màu đến thăm gia đình bạn gái da trắng của mình vào cuối tuần và phát hiện ra một bí mật kinh hoàng và đen tối mà gia đình này che giấu."
+  },
+  {
+    "ten_phim": "No Country for Old Men (2007)",
+    "the_loai": "Tội phạm, Chính kịch, Giật gân",
+    "tom_tat": "Một cuộc săn đuổi tàn nhẫn diễn ra sau khi một người thợ săn tình cờ nhặt được một chiếc vali chứa đầy tiền từ một vụ giao dịch ma túy thất bại."
+  },
+  {
+    "ten_phim": "Casino Royale (2006)",
+    "the_loai": "Hành động, Phiêu lưu, Giật gân",
+    "tom_tat": "Trong nhiệm vụ đầu tiên với tư cách là điệp viên 007, James Bond phải đánh bại một tên trùm tài trợ khủng bố trong một ván bài poker đặt cược cao."
+  },
+  {
+    "ten_phim": "The Grand Budapest Hotel (2014)",
+    "the_loai": "Phiêu lưu, Hài kịch, Chính kịch",
+    "tom_tat": "Cuộc phiêu lưu của Gustave H, một quản lý khách sạn huyền thoại, và cậu bé phục vụ Zero Moustafa, khi họ bị cuốn vào một vụ trộm và giết người liên quan đến một bức tranh quý giá."
+  },
+  {
+    "ten_phim": "Her (2013)",
+    "the_loai": "Chính kịch, Lãng mạn, Khoa học viễn tưởng",
+    "tom_tat": "Một nhà văn cô đơn phát triển một mối quan hệ tình cảm không tưởng với một hệ điều hành được thiết kế để đáp ứng mọi nhu cầu của anh ta."
+  },
+  {
+    "ten_phim": "A Separation (2011)",
+    "the_loai": "Chính kịch",
+    "tom_tat": "Một cặp vợ chồng ở Iran đối mặt với quyết định khó khăn: rời khỏi đất nước để có tương lai tốt hơn cho con gái, hay ở lại chăm sóc người cha mắc bệnh Alzheimer."
+  },
+  {
+    "ten_phim": "Logan (2017)",
+    "the_loai": "Hành động, Chính kịch, Khoa học viễn tưởng",
+    "tom_tat": "Trong một tương lai gần, một Logan mệt mỏi và già nua đang chăm sóc cho Giáo sư X ốm yếu, nhưng nỗ lực ẩn dật của họ bị phá vỡ khi một dị nhân trẻ tuổi xuất hiện."
+  },
+  {
+    "ten_phim": "Room (2015)",
+    "the_loai": "Chính kịch, Giật gân",
+    "tom_tat": "Một người phụ nữ và cậu con trai 5 tuổi của cô được giải thoát sau nhiều năm bị giam cầm trong một căn phòng nhỏ. Cậu bé lần đầu tiên được trải nghiệm thế giới bên ngoài."
+  },
+  {
+    "ten_phim": "Arrival (2016)",
+    "the_loai": "Khoa học viễn tưởng, Chính kịch, Bí ẩn",
+    "tom_tat": "Một nhà ngôn ngữ học được quân đội tuyển dụng để cố gắng giao tiếp với các sinh vật ngoài hành tinh đã đến Trái Đất, trước khi sự hoảng loạn toàn cầu dẫn đến chiến tranh."
+  },
+  {
+    "ten_phim": "The Social Network (2010)",
+    "the_loai": "Tiểu sử, Chính kịch",
+    "tom_tat": "Câu chuyện về quá trình sáng lập Facebook của Mark Zuckerberg, từ một ý tưởng trong phòng ký túc xá Harvard đến một cuộc cách mạng xã hội và những vụ kiện pháp lý."
+  },
+  {
+    "ten_phim": "Oldboy (2003)",
+    "the_loai": "Hành động, Bí ẩn, Giật gân",
+    "tom_tat": "Sau khi bị giam cầm suốt 15 năm mà không rõ lý do, một người đàn ông được thả ra và có 5 ngày để tìm ra kẻ đã bắt cóc mình và trả thù."
+  },
+  {
+    "ten_phim": "Django Unchained (2012)",
+    "the_loai": "Chính kịch, Miền Tây",
+    "tom_tat": "Một nô lệ được giải thoát hợp tác với một thợ săn tiền thưởng người Đức để giải cứu vợ mình khỏi một chủ đồn điền tàn bạo ở Mississippi."
+  },
+  {
+    "ten_phim": "Your Name. (2016)",
+    "the_loai": "Hoạt hình, Lãng mạn, Giả tưởng",
+    "tom_tat": "Hai học sinh trung học, một ở thành phố, một ở nông thôn, phát hiện ra họ có khả năng hoán đổi cơ thể cho nhau một cách bí ẩn và bắt đầu tìm kiếm nhau."
+  },
+  {
+    "ten_phim": "Howl's Moving Castle (2004)",
+    "the_loai": "Hoạt hình, Phiêu lưu, Giả tưởng",
+    "tom_tat": "Một cô gái trẻ bị nguyền rủa thành bà lão, cô tìm đến Lâu đài di động của pháp sư Howl để tìm cách giải lời nguyền và bị cuốn vào cuộc chiến của anh."
+  },
+  {
+    "ten_phim": "The Intouchables (2011)",
+    "the_loai": "Tiểu sử, Hài kịch, Chính kịch",
+    "tom_tat": "Dựa trên câu chuyện có thật về tình bạn bất ngờ giữa một nhà quý tộc bị liệt tứ chi và một chàng trai trẻ đến từ khu ổ chuột được thuê làm người chăm sóc cho ông."
+  },
+  {
+    "ten_phim": "City of God (2002)",
+    "the_loai": "Tội phạm, Chính kịch",
+    "tom_tat": "Kể về sự trỗi dậy của tội phạm có tổ chức trong các khu ổ chuột ở Rio de Janeiro trong suốt hai thập kỷ, qua con mắt của một nhiếp ảnh gia trẻ tuổi."
+  },
+  {
+    "ten_phim": "The Pianist (2002)",
+    "the_loai": "Tiểu sử, Chính kịch, Âm nhạc",
+    "tom_tat": "Câu chuyện có thật về nghệ sĩ dương cầm người Ba Lan gốc Do Thái Władysław Szpilman và cuộc đấu tranh sinh tồn của ông trong khu ổ chuột Warsaw trong Thế chiến II."
+  },
+  {
+    "ten_phim": "Once Upon a Time in Hollywood (2019)",
+    "the_loai": "Hài kịch, Chính kịch",
+    "tom_tat": "Một ngôi sao truyền hình hết thời và người đóng thế lâu năm của anh ta cố gắng tìm kiếm danh vọng và thành công trong những ngày cuối của Kỷ nguyên Vàng Hollywood năm 1969."
+  },
+  {
+    "ten_phim": "A Quiet Place (2018)",
+    "the_loai": "Kinh dị, Khoa học viễn tưởng, Giật gân",
+    "tom_tat": "Một gia đình phải sống trong im lặng tuyệt đối để trốn tránh những sinh vật bí ẩn săn mồi bằng âm thanh."
+  },
+  {
+    "ten_phim": "The Avengers (2012)",
+    "the_loai": "Hành động, Khoa học viễn tưởng, Phiêu lưu",
+    "tom_tat": "Nhóm siêu anh hùng vĩ đại nhất Trái Đất, bao gồm Iron Man, Captain America, Thor và Hulk, phải tập hợp lại để ngăn chặn Loki và đội quân của hắn nô dịch nhân loại."
+  },
+  {
+    "ten_phim": "Deadpool (2016)",
+    "the_loai": "Hành động, Hài kịch, Phiêu lưu",
+    "tom_tat": "Một cựu lính đặc nhiệm sau khi trải qua một thí nghiệm thất bại đã có được khả năng hồi phục siêu tốc, anh trở thành anti-hero Deadpool và săn lùng kẻ đã hủy hoại cuộc đời mình."
+  },
+  {
+    "ten_phim": "Jaws (1975)",
+    "the_loai": "Phiêu lưu, Giật gân",
+    "tom_tat": "Một con cá mập trắng khổng lồ tấn công du khách tại một thị trấn nghỉ mát, khiến một cảnh sát trưởng, một nhà hải dương học và một thợ săn cá mập phải hợp sức để tiêu diệt nó."
+  },
+  {
+    "ten_phim": "Gone Girl (2014)",
+    "the_loai": "Chính kịch, Bí ẩn, Giật gân",
+    "tom_tat": "Khi người vợ mất tích vào đúng ngày kỷ niệm 5 năm ngày cưới, người chồng trở thành nghi phạm chính, và một cuộc điều tra truyền thông điên cuồng bắt đầu hé lộ những bí mật đen tối."
+  },
+  {
+    "ten_phim": "Harry Potter and the Sorcerer's Stone (2001)",
+    "the_loai": "Phiêu lưu, Giả tưởng, Gia đình",
+    "tom_tat": "Cậu bé mồ côi Harry Potter phát hiện ra mình là một phù thủy và được mời nhập học tại Trường Phù thủy và Pháp sư Hogwarts, nơi cậu kết bạn và khám phá ra định mệnh của mình."
+  },
+  {
+    "ten_phim": "1917 (2019)",
+    "the_loai": "Chiến tranh, Chính kịch",
+    "tom_tat": "Trong Thế chiến I, hai người lính trẻ của Anh được giao một nhiệm vụ bất khả thi: vượt qua lãnh thổ của kẻ thù để truyền một thông điệp có thể cứu sống 1.600 đồng đội."
+  },
+  {
+    "ten_phim": "Shutter Island (2010)",
+    "the_loai": "Bí ẩn, Giật gân",
+    "tom_tat": "Năm 1954, một cảnh sát trưởng liên bang đến điều tra vụ mất tích của một bệnh nhân tại một bệnh viện dành cho tội phạm tâm thần trên một hòn đảo hẻo lánh."
+  },
+  {
+    "ten_phim": "The Truman Show (1998)",
+    "the_loai": "Hài kịch, Chính kịch",
+    "tom_tat": "Truman Burbank phát hiện ra rằng toàn bộ cuộc đời anh, từ lúc sinh ra, thực chất là một chương trình truyền hình thực tế được phát sóng 24/7 cho cả thế giới xem."
+  },
+  {
+    "ten_phim": "Call Me by Your Name (2017)",
+    "the_loai": "Lãng mạn, Chính kịch",
+    "tom_tat": "Vào mùa hè năm 1983 ở miền bắc nước Ý, cậu thiếu niên 17 tuổi Elio nảy sinh mối tình lãng mạn với Oliver, một sinh viên người Mỹ đến làm trợ lý cho cha cậu."
+  },
+  {
+    "ten_phim": "Moonlight (2016)",
+    "the_loai": "Chính kịch",
+    "tom_tat": "Bộ phim theo chân ba giai đoạn trong cuộc đời của một chàng trai da màu đồng tính ở Miami: thời thơ ấu, thiếu niên và trưởng thành, khi anh phải vật lộn với danh tính và xu hướng tính dục của mình."
+  },
+  {
+    "ten_phim": "Good Will Hunting (1997)",
+    "the_loai": "Chính kịch",
+    "tom_tat": "Will Hunting, một lao công tại M.I.T. có tài năng toán học thiên bẩm, phải tham gia các buổi trị liệu tâm lý để đối mặt với quá khứ và khai phá tiềm năng của mình."
+  },
+  {
+    "ten_phim": "Braveheart (1995)",
+    "the_loai": "Tiểu sử, Chính kịch, Lịch sử",
+    "tom_tat": "William Wallace, một chiến binh người Scotland, lãnh đạo cuộc kháng chiến chống lại sự cai trị của vua Anh Edward I sau khi người vợ của ông bị sát hại."
+  },
+  {
+    "ten_phim": "Requiem for a Dream (2000)",
+    "the_loai": "Chính kịch",
+    "tom_tat": "Bốn nhân vật ở Brooklyn theo đuổi những phiên bản khác nhau của hạnh phúc, nhưng rồi bị cuốn vào vòng xoáy nghiện ngập và ảo tưởng, dẫn đến kết cục bi thảm."
+  },
+  {
+    "ten_phim": "Rocky (1976)",
+    "the_loai": "Chính kịch, Thể thao",
+    "tom_tat": "Rocky Balboa, một võ sĩ quyền Anh ít tên tuổi ở Philadelphia, có được cơ hội ngàn vàng để thách đấu nhà vô địch hạng nặng thế giới Apollo Creed."
+  },
+  {
+    "ten_phim": "Train to Busan (2016)",
+    "the_loai": "Hành động, Kinh dị, Giật gân",
+    "tom_tat": "Khi một đại dịch zombie bùng phát ở Hàn Quốc, các hành khách trên chuyến tàu đến Busan phải chiến đấu để sinh tồn."
+  },
+  {
+    "ten_phim": "The Sixth Sense (1999)",
+    "the_loai": "Chính kịch, Bí ẩn, Giật gân",
+    "tom_tat": "Một nhà tâm lý học trẻ em cố gắng giúp một cậu bé có khả năng nhìn thấy và nói chuyện với người chết, nhưng rồi phát hiện ra một sự thật kinh hoàng về chính mình."
+  },
+  {
+    "ten_phim": "Slumdog Millionaire (2008)",
+    "the_loai": "Chính kịch, Lãng mạn",
+    "tom_tat": "Một chàng trai trẻ mồ côi từ khu ổ chuột Mumbai tham gia chương trình 'Ai là triệu phú?' và trả lời đúng các câu hỏi nhờ vào những trải nghiệm trong cuộc đời mình."
+  },
+  {
+    "ten_phim": "Casablanca (1942)",
+    "the_loai": "Chính kịch, Lãng mạn, Chiến tranh",
+    "tom_tat": "Một chủ quán bar người Mỹ sống lưu vong ở Casablanca phải lựa chọn giữa tình yêu với một người phụ nữ và việc giúp cô cùng chồng là một lãnh đạo kháng chiến trốn thoát khỏi Đức Quốc xã."
+  },
+  {
+    "ten_phim": "Birdman (2014)",
+    "the_loai": "Hài kịch, Chính kịch",
+    "tom_tat": "Một diễn viên hết thời, nổi tiếng với vai siêu anh hùng 'Birdman', cố gắng vực dậy sự nghiệp bằng cách dàn dựng một vở kịch trên sân khấu Broadway."
+  },
+  {
+    "ten_phim": "The Handmaiden (2016)",
+    "the_loai": "Chính kịch, Lãng mạn, Giật gân",
+    "tom_tat": "Dưới thời Triều Tiên bị Nhật chiếm đóng, một cô gái được thuê làm người hầu cho một nữ thừa kế người Nhật, nhưng thực chất là một phần của âm mưu lừa đảo tinh vi."
+  },
+  {
+    "ten_phim": "12 Angry Men (1957)",
+    "the_loai": "Tội phạm, Chính kịch",
+    "tom_tat": "Một bồi thẩm viên duy nhất cố gắng thuyết phục 11 người còn lại rằng vụ án giết người mà họ đang xét xử không đơn giản như vẻ ngoài, đòi hỏi phải xem xét lại các bằng chứng."
+  },
+  {
+    "ten_phim": "Pan's Labyrinth (2006)",
+    "the_loai": "Chính kịch, Giả tưởng, Chiến tranh",
+    "tom_tat": "Trong bối cảnh Nội chiến Tây Ban Nha, một cô bé yêu sách thoát khỏi thực tại tàn khốc bằng cách bước vào một thế giới thần tiên kỳ lạ và đáng sợ."
+  },
+  {
+    "ten_phim": "Kill Bill: Vol. 1 (2003)",
+    "the_loai": "Hành động, Tội phạm, Giật gân",
+    "tom_tat": "Sau khi tỉnh dậy từ cơn hôn mê 4 năm, một nữ sát thủ có biệt danh 'Cô Dâu' bắt đầu hành trình trả thù đẫm máu những kẻ đã cố gắng giết cô trong ngày cưới."
+  },
+  {
+    "ten_phim": "Apocalypse Now (1979)",
+    "the_loai": "Chính kịch, Chiến tranh",
+    "tom_tat": "Trong Chiến tranh Việt Nam, một đại úy quân đội được giao nhiệm vụ ám sát một Đại tá Lực lượng Đặc biệt đã hóa điên và tự lập một bộ lạc trong rừng rậm Campuchia."
+  },
+  {
+    "ten_phim": "Fargo (1996)",
+    "the_loai": "Tội phạm, Chính kịch, Giật gân",
+    "tom_tat": "Một nhân viên bán xe hơi nợ nần thuê hai tên tội phạm bắt cóc vợ mình để tống tiền cha vợ giàu có, nhưng kế hoạch nhanh chóng vượt khỏi tầm kiểm soát."
+  },
+  {
+    "ten_phim": "The Wolf of Wall Street (2013)",
+    "the_loai": "Tiểu sử, Hài kịch, Tội phạm",
+    "tom_tat": "Dựa trên câu chuyện có thật về Jordan Belfort, từ một nhà môi giới chứng khoán bình thường vươn lên thành một tay chơi khét tiếng ở Phố Wall với lối sống xa hoa và những phi vụ lừa đảo."
+  },
+  {
+    "ten_phim": "E.T. the Extra-Terrestrial (1982)",
+    "the_loai": "Gia đình, Khoa học viễn tưởng",
+    "tom_tat": "Một cậu bé cô đơn kết bạn với một sinh vật ngoài hành tinh bị mắc kẹt trên Trái Đất và cố gắng giúp người bạn mới của mình liên lạc với hành tinh quê nhà để được giải cứu."
+  },
+  {
+    "ten_phim": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+    "the_loai": "Hành động, Phiêu lưu",
+    "tom_tat": "Nhà khảo cổ học và nhà thám hiểm Indiana Jones được chính phủ Mỹ thuê để tìm kiếm Hòm Giao Ước trước khi quân Đức Quốc xã tìm thấy nó."
+  },
+  {
+    "ten_phim": "The Big Lebowski (1998)",
+    "the_loai": "Hài kịch, Tội phạm",
+    "tom_tat": "Jeff 'The Dude' Lebowski, một người đàn ông lười biếng, bị nhầm lẫn với một triệu phú cùng tên, dẫn đến một loạt các sự kiện kỳ quặc liên quan đến bắt cóc, tống tiền và bowling."
+  },
+  {
+    "ten_phim": "Little Miss Sunshine (2006)",
+    "the_loai": "Hài kịch, Chính kịch",
+    "tom_tat": "Một gia đình rối loạn chức năng thực hiện chuyến đi xuyên quốc gia trên một chiếc xe buýt cũ kỹ để cô con gái út có thể tham gia một cuộc thi sắc đẹp."
+  },
+  {
+    "ten_phim": "Zodiac (2007)",
+    "the_loai": "Tội phạm, Chính kịch, Bí ẩn",
+    "tom_tat": "Một họa sĩ biếm họa ở San Francisco trở nên bị ám ảnh bởi việc truy tìm tên giết người hàng loạt Zodiac, kẻ đã khủng bố miền Bắc California trong những năm 1960 và 1970."
+  },
+  {
+    "ten_phim": "Crouching Tiger, Hidden Dragon (2000)",
+    "the_loai": "Hành động, Phiêu lưu, Lãng mạn",
+    "tom_tat": "Tại Trung Quốc thế kỷ 19, một thanh kiếm huyền thoại bị đánh cắp, dẫn đến một cuộc truy đuổi liên quan đến hai bậc thầy võ thuật và một tiểu thư quý tộc có thân thế bí ẩn."
+  },
+  {
+    "ten_phim": "District 9 (2009)",
+    "the_loai": "Khoa học viễn tưởng, Hành động, Giật gân",
+    "tom_tat": "Khi một nhóm người ngoài hành tinh tị nạn bị mắc kẹt ở Nam Phi, một nhân viên chính phủ bị phơi nhiễm với công nghệ sinh học của họ và phải tìm cách trốn thoát."
+  },
+  {
+    "ten_phim": "Children of Men (2006)",
+    "the_loai": "Khoa học viễn tưởng, Giật gân, Chính kịch",
+    "tom_tat": "Năm 2027, trong một thế giới hỗn loạn nơi nhân loại đã mất khả năng sinh sản, một cựu nhà hoạt động phải hộ tống một phụ nữ mang thai một cách kỳ diệu đến nơi an toàn."
+  },
+  {
+    "ten_phim": "Blade Runner (1982)",
+    "the_loai": "Hành động, Chính kịch, Khoa học viễn tưởng",
+    "tom_tat": "Trong một Los Angeles tương lai đen tối, một cảnh sát chuyên 'săn' người nhân tạo (replicant) phải truy lùng một nhóm replicant nổi loạn đã trở về Trái Đất."
+  }
+]

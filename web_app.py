@@ -1,6 +1,6 @@
 import base64
 import streamlit as st
-from openai_handler import generate_response
+from openai_handler import ask_llm, build_context
 from chromadb_client import search_knowledge
 from tts_engine import text_to_speech
 
@@ -14,13 +14,16 @@ user_input = st.text_input("Bạn:", "", help="Nhập câu hỏi về phim")
 if user_input:
     with st.spinner("🔍 Đang xử lý..."):
         # Tìm kiếm kiến thức nền từ ChromaDB
-        docs = search_knowledge(user_input)
-        st.write("💡 Kiến thức liên quan:")
-        for doc in docs:
-            st.markdown(f"- {doc[0]}")
+        queryRestul = search_knowledge(user_input)
+        #st.write("💡 Kiến thức liên quan:")
+        #for doc in docs:
+        #    st.markdown(f"- {doc[0]}")
+
+        #Build context for LLM
+        context = build_context(queryRestul)
 
         # Tạo phản hồi văn bản
-        response = generate_response(user_input)
+        response = ask_llm(context, user_input)
         st.write(f"🤖 Bot trả lời: {response}")
 
         # Tạo giọng nói

@@ -20,59 +20,41 @@ Một chatbot AI giới thiệu phim / nội dung giải trí, sử dụng các 
 ## 📦 Cài đặt & Yêu cầu
 
 1. Clone repository
-```bash
-git clone https://github.com/<your-repo-name>.git
-cd chatbot_project
 
 2. Cài thư viện cần thiết
-pip install -r requirements.txt
-
-
-Nếu chưa có file requirements.txt, bạn có thể cài thủ công:
 
 pip install openai chromadb transformers torch soundfile streamlit simpleaudio
 
-
-
 🔑 Cấu hình OpenAI API
-Đặt API Key vào biến môi trường:
-Windows:
-set OPENAI_API_KEY=sk-xxxxx
+Tạo file .env
 
-
-Mac/Linux:
-export OPENAI_API_KEY=sk-xxxxx
-
-
+OPENAI_API_KEY=sk-GlKxsGKVhd4ftqS1L33gZw
+TEXT_EMBEDDING_KEY=sk-HAfeizWMtwFhxlJUb_UC7A
+OPENAI_BASE_URL=https://aiportalapi.stu-platform.live/jpe
 
 📁 Khởi tạo dữ liệu
 Chạy đoạn mã để nạp dữ liệu mock vào ChromaDB:
 python chromadb_client.py
 
-
-
 💬 Chạy ứng dụng CLI
 python app.py
 
-
 Bạn có thể nhập câu hỏi, xem phản hồi văn bản và nghe phát âm từ file output.wav.
-
 
 🌐 Chạy giao diện Web bằng Streamlit
 streamlit run web_app.py
-
+or
+python -m streamlit run web_app.py
 
 Truy cập http://localhost:8501 để tương tác với chatbot.
 
-
 🔁 Tính năng Web UI
-- Tự động phát giọng nói khi phản hồi mới được tạo
-- Nút 🔁 Phát lại giúp nghe lại phản hồi
+- Phát giọng nói khi phản hồi được tạo
 - Truy vấn kiến thức từ ChromaDB và hiển thị nguồn thông tin
 - Dễ dàng tuỳ chỉnh giao diện bằng Streamlit
 
 👨‍💻 Tác giả
-- Phi Van — AI Application Engineer tại Elevate 👨‍🔬
+- AI Beginner — AI Application Engineer tại Elevate 👨‍🔬
 - Hỗ trợ bởi Microsoft Copilot 🤖
 
 📜 License

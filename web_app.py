@@ -14,37 +14,30 @@ user_input = st.text_input("Bạn:", "", help="Nhập câu hỏi về phim")
 if user_input:
     with st.spinner("🔍 Đang xử lý..."):
         # Tìm kiếm kiến thức nền từ ChromaDB
-        queryRestul = search_knowledge(user_input)
-        #st.write("💡 Kiến thức liên quan:")
-        #for doc in docs:
-        #    st.markdown(f"- {doc[0]}")
+        query_result = search_knowledge(user_input)
 
-        #Build context for LLM
-        context = build_context(queryRestul)
+        # Tạo context cho mô hình LLM
+        context = build_context(query_result)
 
-        # Tạo phản hồi văn bản
+        # Lấy phản hồi văn bản từ mô hình
         response = ask_llm(context, user_input)
-        st.write(f"🤖 Bot trả lời: {response}")
 
-        # Tạo giọng nói
-        audio_path = text_to_speech(response)
+        # Tạo nút phát giọng nói
+        if st.button("🔊 Phát giọng nói"):
+            # Gọi hàm chuyển văn bản thành giọng nói
+            audio_path = text_to_speech(response)
 
-        # Tạo mã base64 từ file .wav
-        with open(audio_path, "rb") as f:
-            audio_bytes = f.read()
-            audio_base64 = base64.b64encode(audio_bytes).decode()
+            # Đọc file âm thanh và mã hoá base64
+            with open(audio_path, "rb") as f:
+                audio_bytes = f.read()
+                audio_base64 = base64.b64encode(audio_bytes).decode()
 
-        # Hiển thị lần đầu (autoplay)
-        st.markdown(f"""
-            <audio autoplay>
-                <source src="data:audio/wav;base64,{audio_base64}" type="audio/wav">
-            </audio>
-        """, unsafe_allow_html=True)
-
-        # Nút phát lại
-        if st.button("🔁 Phát lại"):
+            # Chèn player vào giao diện (không autoplay)
             st.markdown(f"""
-                <audio autoplay>
+                <audio controls>
                     <source src="data:audio/wav;base64,{audio_base64}" type="audio/wav">
                 </audio>
             """, unsafe_allow_html=True)
+
+        # Hiển thị câu trả lời của bot
+        st.write(f"🤖 Bot trả lời: {response}")

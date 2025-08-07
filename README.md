@@ -28,10 +28,9 @@ pip install openai chromadb transformers torch soundfile streamlit simpleaudio
 🔑 Cấu hình OpenAI API
 Tạo file .env
 
-OPENAI_API_KEY=sk-GlKxsGKVhd4ftqS1L33gZw
-TEXT_EMBEDDING_KEY=sk-HAfeizWMtwFhxlJUb_UC7A
-OPENAI_BASE_URL=https://aiportalapi.stu-platform.live/jpe
-
+OPENAI_API_KEY=<>
+TEXT_EMBEDDING_KEY=<>
+OPENAI_BASE_URL=<>
 📁 Khởi tạo dữ liệu
 Chạy đoạn mã để nạp dữ liệu mock vào ChromaDB:
 python chromadb_client.py
@@ -59,3 +58,4 @@ Truy cập http://localhost:8501 để tương tác với chatbot.
 
 📜 License
 MIT License
+
